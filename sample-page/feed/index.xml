@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Home	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/primarium//sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/primarium//</link>
 	<description>Handwriting education in primary schools</description>
 	<lastBuildDate>Fri, 07 Apr 2023 14:42:46 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Countries &#8211; Primarium</title>
-	<atom:link href="/countries/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/primarium//countries/feed/" rel="self" type="application/rss+xml" />
+	<link>/primarium//</link>
 	<description>Handwriting education in primary schools</description>
 	<lastBuildDate>Wed, 15 May 2024 18:10:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>Argentina</title>
-		<link>/countries/argentina/</link>
+		<link>/primarium//countries/argentina/</link>
 		
 		<dc:creator><![CDATA[ash-wb]]></dc:creator>
 		<pubDate>Tue, 18 Apr 2023 06:54:34 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=country#038;p=3391</guid>
+				<guid isPermaLink="false">/primarium//?post_type=country#038;p=3391</guid>
 
 					<description><![CDATA[The Argentinian education system has four stages. They aren’t exactly the same throughout the country, but in general, the first three — initial level (45 days–5 years old), primary (6–12 years old), secondary (13–17 years old) — make up school education, and the fourth, known as superior education, covers postsecondary and university. The Ley de [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div class="intro-text">
@@ -48,11 +48,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-2 is-cropped">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/04/01-Letramania-3.webp" target="_blank" rel="noreferrer noopener"><img fetchpriority="high" decoding="async" width="717" height="1024" data-id="3776" src="/wp-content/uploads/2023/04/01-Letramania-3-717x1024.webp" alt="" class="wp-image-3776" srcset="/wp-content/uploads/2023/04/01-Letramania-3-717x1024.webp 717w, /wp-content/uploads/2023/04/01-Letramania-3-210x300.webp 210w, /wp-content/uploads/2023/04/01-Letramania-3-768x1097.webp 768w, /wp-content/uploads/2023/04/01-Letramania-3.webp 1050w" sizes="(max-width: 717px) 100vw, 717px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/primarium//wp-content/uploads/2023/04/01-Letramania-3.webp" target="_blank" rel="noreferrer noopener"><img fetchpriority="high" decoding="async" width="717" height="1024" data-id="3776" src="/primarium//wp-content/uploads/2023/04/01-Letramania-3-717x1024.webp" alt="" class="wp-image-3776" srcset="/primarium//wp-content/uploads/2023/04/01-Letramania-3-717x1024.webp 717w, /primarium//wp-content/uploads/2023/04/01-Letramania-3-210x300.webp 210w, /primarium//wp-content/uploads/2023/04/01-Letramania-3-768x1097.webp 768w, /primarium//wp-content/uploads/2023/04/01-Letramania-3.webp 1050w" sizes="(max-width: 717px) 100vw, 717px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/04/02-Letramania-3.webp" target="_blank" rel="noreferrer noopener"><img decoding="async" width="786" height="1024" data-id="3775" src="/wp-content/uploads/2023/04/02-Letramania-3-786x1024.webp" alt="" class="wp-image-3775" srcset="/wp-content/uploads/2023/04/02-Letramania-3-786x1024.webp 786w, /wp-content/uploads/2023/04/02-Letramania-3-230x300.webp 230w, /wp-content/uploads/2023/04/02-Letramania-3-768x1001.webp 768w, /wp-content/uploads/2023/04/02-Letramania-3.webp 1151w" sizes="(max-width: 786px) 100vw, 786px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/primarium//wp-content/uploads/2023/04/02-Letramania-3.webp" target="_blank" rel="noreferrer noopener"><img decoding="async" width="786" height="1024" data-id="3775" src="/primarium//wp-content/uploads/2023/04/02-Letramania-3-786x1024.webp" alt="" class="wp-image-3775" srcset="/primarium//wp-content/uploads/2023/04/02-Letramania-3-786x1024.webp 786w, /primarium//wp-content/uploads/2023/04/02-Letramania-3-230x300.webp 230w, /primarium//wp-content/uploads/2023/04/02-Letramania-3-768x1001.webp 768w, /primarium//wp-content/uploads/2023/04/02-Letramania-3.webp 1151w" sizes="(max-width: 786px) 100vw, 786px" /></a></figure>
 <figcaption class="blocks-gallery-caption wp-element-caption">Johnson, S., Carrillo, S.G., 2003. <em>Letramania 3: La Letra Cursiva.</em> Kel Ediciones S.A.</figcaption></figure>
 
 
@@ -69,7 +69,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/04/Abrapalabra-3-scaled.webp" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="705" src="/wp-content/uploads/2023/04/Abrapalabra-3-1024x705.webp" alt="" class="wp-image-3778" srcset="/wp-content/uploads/2023/04/Abrapalabra-3-1024x705.webp 1024w, /wp-content/uploads/2023/04/Abrapalabra-3-300x207.webp 300w, /wp-content/uploads/2023/04/Abrapalabra-3-768x529.webp 768w, /wp-content/uploads/2023/04/Abrapalabra-3-1536x1058.webp 1536w, /wp-content/uploads/2023/04/Abrapalabra-3-2048x1410.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">AZ ediciones promotional booklet featuring three books from the <em>Abrapalabra</em> series: majuscule print, minuscule print, and cursive letters.</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/primarium//wp-content/uploads/2023/04/Abrapalabra-3-scaled.webp" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="705" src="/primarium//wp-content/uploads/2023/04/Abrapalabra-3-1024x705.webp" alt="" class="wp-image-3778" srcset="/primarium//wp-content/uploads/2023/04/Abrapalabra-3-1024x705.webp 1024w, /primarium//wp-content/uploads/2023/04/Abrapalabra-3-300x207.webp 300w, /primarium//wp-content/uploads/2023/04/Abrapalabra-3-768x529.webp 768w, /primarium//wp-content/uploads/2023/04/Abrapalabra-3-1536x1058.webp 1536w, /primarium//wp-content/uploads/2023/04/Abrapalabra-3-2048x1410.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">AZ ediciones promotional booklet featuring three books from the <em>Abrapalabra</em> series: majuscule print, minuscule print, and cursive letters.</figcaption></figure>
 
 
 
@@ -85,16 +85,16 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/04/01_Letralandia-2.webp" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="990" src="/wp-content/uploads/2023/04/01_Letralandia-2-1024x990.webp" alt="" class="wp-image-3780" srcset="/wp-content/uploads/2023/04/01_Letralandia-2-1024x990.webp 1024w, /wp-content/uploads/2023/04/01_Letralandia-2-300x290.webp 300w, /wp-content/uploads/2023/04/01_Letralandia-2-768x743.webp 768w, /wp-content/uploads/2023/04/01_Letralandia-2.webp 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Letralandia 2. Letra cursiva,</em> by Longseller Education, 2008.</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/primarium//wp-content/uploads/2023/04/01_Letralandia-2.webp" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="990" src="/primarium//wp-content/uploads/2023/04/01_Letralandia-2-1024x990.webp" alt="" class="wp-image-3780" srcset="/primarium//wp-content/uploads/2023/04/01_Letralandia-2-1024x990.webp 1024w, /primarium//wp-content/uploads/2023/04/01_Letralandia-2-300x290.webp 300w, /primarium//wp-content/uploads/2023/04/01_Letralandia-2-768x743.webp 768w, /primarium//wp-content/uploads/2023/04/01_Letralandia-2.webp 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Letralandia 2. Letra cursiva,</em> by Longseller Education, 2008.</figcaption></figure>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-2 is-cropped">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/04/02_Letralandia-2.webp" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="719" data-id="3781" src="/wp-content/uploads/2023/04/02_Letralandia-2-1024x719.webp" alt="" class="wp-image-3781" srcset="/wp-content/uploads/2023/04/02_Letralandia-2-1024x719.webp 1024w, /wp-content/uploads/2023/04/02_Letralandia-2-300x211.webp 300w, /wp-content/uploads/2023/04/02_Letralandia-2-768x539.webp 768w, /wp-content/uploads/2023/04/02_Letralandia-2.webp 1425w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/primarium//wp-content/uploads/2023/04/02_Letralandia-2.webp" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="719" data-id="3781" src="/primarium//wp-content/uploads/2023/04/02_Letralandia-2-1024x719.webp" alt="" class="wp-image-3781" srcset="/primarium//wp-content/uploads/2023/04/02_Letralandia-2-1024x719.webp 1024w, /primarium//wp-content/uploads/2023/04/02_Letralandia-2-300x211.webp 300w, /primarium//wp-content/uploads/2023/04/02_Letralandia-2-768x539.webp 768w, /primarium//wp-content/uploads/2023/04/02_Letralandia-2.webp 1425w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/04/03_Letralandia-2.webp" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="721" data-id="3782" src="/wp-content/uploads/2023/04/03_Letralandia-2-1024x721.webp" alt="" class="wp-image-3782" srcset="/wp-content/uploads/2023/04/03_Letralandia-2-1024x721.webp 1024w, /wp-content/uploads/2023/04/03_Letralandia-2-300x211.webp 300w, /wp-content/uploads/2023/04/03_Letralandia-2-768x541.webp 768w, /wp-content/uploads/2023/04/03_Letralandia-2.webp 1420w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/primarium//wp-content/uploads/2023/04/03_Letralandia-2.webp" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="721" data-id="3782" src="/primarium//wp-content/uploads/2023/04/03_Letralandia-2-1024x721.webp" alt="" class="wp-image-3782" srcset="/primarium//wp-content/uploads/2023/04/03_Letralandia-2-1024x721.webp 1024w, /primarium//wp-content/uploads/2023/04/03_Letralandia-2-300x211.webp 300w, /primarium//wp-content/uploads/2023/04/03_Letralandia-2-768x541.webp 768w, /primarium//wp-content/uploads/2023/04/03_Letralandia-2.webp 1420w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 <figcaption class="blocks-gallery-caption wp-element-caption"><em>Letralandia 2. Letra cursiva,</em> by Longseller Education, 2008.</figcaption></figure>
 
 
@@ -103,7 +103,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/04/Grafimania2-cover.webp" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="747" height="1024" src="/wp-content/uploads/2023/04/Grafimania2-cover-747x1024.webp" alt="" class="wp-image-3784" srcset="/wp-content/uploads/2023/04/Grafimania2-cover-747x1024.webp 747w, /wp-content/uploads/2023/04/Grafimania2-cover-219x300.webp 219w, /wp-content/uploads/2023/04/Grafimania2-cover-768x1053.webp 768w, /wp-content/uploads/2023/04/Grafimania2-cover-1120x1536.webp 1120w, /wp-content/uploads/2023/04/Grafimania2-cover.webp 1135w" sizes="(max-width: 747px) 100vw, 747px" /></a><figcaption class="wp-element-caption">Cover of <em>Grafimanía 2</em>, by Sara Inés Gómez Carrillo and Sally Johnson, Kel editiones</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/primarium//wp-content/uploads/2023/04/Grafimania2-cover.webp" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="747" height="1024" src="/primarium//wp-content/uploads/2023/04/Grafimania2-cover-747x1024.webp" alt="" class="wp-image-3784" srcset="/primarium//wp-content/uploads/2023/04/Grafimania2-cover-747x1024.webp 747w, /primarium//wp-content/uploads/2023/04/Grafimania2-cover-219x300.webp 219w, /primarium//wp-content/uploads/2023/04/Grafimania2-cover-768x1053.webp 768w, /primarium//wp-content/uploads/2023/04/Grafimania2-cover-1120x1536.webp 1120w, /primarium//wp-content/uploads/2023/04/Grafimania2-cover.webp 1135w" sizes="(max-width: 747px) 100vw, 747px" /></a><figcaption class="wp-element-caption">Cover of <em>Grafimanía 2</em>, by Sara Inés Gómez Carrillo and Sally Johnson, Kel editiones</figcaption></figure>
 
 
 
@@ -115,11 +115,11 @@
 			</item>
 		<item>
 		<title>Australia</title>
-		<link>/countries/australia/</link>
+		<link>/primarium//countries/australia/</link>
 		
 		<dc:creator><![CDATA[Jose]]></dc:creator>
 		<pubDate>Thu, 01 Jun 2023 09:47:51 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=country#038;p=3390</guid>
+				<guid isPermaLink="false">/primarium//?post_type=country#038;p=3390</guid>
 
 					<description><![CDATA[In Australia, states and territories are responsible for delivering school education, including operation of government schools, and regulation of all schools. Funding is provided by the national, as well as state and territory governments, and all governments work together through the National Cabinet to decide the national education policy. It is compulsory for children to [&#8230;]]]></description>
 			

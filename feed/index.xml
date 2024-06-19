@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Primarium</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/primarium//feed/" rel="self" type="application/rss+xml" />
+	<link>/primarium//</link>
 	<description>Handwriting education in primary schools</description>
 	<lastBuildDate>Wed, 15 May 2024 18:10:50 +0000</lastBuildDate>
 	<language>en-US</language>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>HW Models &#8211; Primarium</title>
-	<atom:link href="/handwriting-models/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/primarium//handwriting-models/feed/" rel="self" type="application/rss+xml" />
+	<link>/primarium//</link>
 	<description>Handwriting education in primary schools</description>
 	<lastBuildDate>Mon, 21 Aug 2023 11:54:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>Abrapalabra</title>
-		<link>/handwriting-models/abrapalabra/</link>
+		<link>/primarium//handwriting-models/abrapalabra/</link>
 		
 		<dc:creator><![CDATA[Pooja]]></dc:creator>
 		<pubDate>Tue, 18 Apr 2023 08:48:03 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=models#038;p=3785</guid>
+				<guid isPermaLink="false">/primarium//?post_type=models#038;p=3785</guid>
 
 					<description><![CDATA[Abrapalabra is a series of resources aimed at literacy education in Argentinian primary schools. Published by AZ Editora, it features three books and a range of downloadable resources. In 2021, it was announced that Libros para aprender would include the Abrapalabra books. According to school teachers, each of the books focuses on a single stage [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -38,11 +38,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-2 is-cropped">
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="740" height="1024" data-id="3789" src="/wp-content/uploads/2023/04/01-Abrapalabra-740x1024.webp" alt="" class="wp-image-3789" srcset="/wp-content/uploads/2023/04/01-Abrapalabra-740x1024.webp 740w, /wp-content/uploads/2023/04/01-Abrapalabra-217x300.webp 217w, /wp-content/uploads/2023/04/01-Abrapalabra-768x1063.webp 768w, /wp-content/uploads/2023/04/01-Abrapalabra-1110x1536.webp 1110w, /wp-content/uploads/2023/04/01-Abrapalabra.webp 1445w" sizes="(max-width: 740px) 100vw, 740px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="740" height="1024" data-id="3789" src="/primarium//wp-content/uploads/2023/04/01-Abrapalabra-740x1024.webp" alt="" class="wp-image-3789" srcset="/primarium//wp-content/uploads/2023/04/01-Abrapalabra-740x1024.webp 740w, /primarium//wp-content/uploads/2023/04/01-Abrapalabra-217x300.webp 217w, /primarium//wp-content/uploads/2023/04/01-Abrapalabra-768x1063.webp 768w, /primarium//wp-content/uploads/2023/04/01-Abrapalabra-1110x1536.webp 1110w, /primarium//wp-content/uploads/2023/04/01-Abrapalabra.webp 1445w" sizes="(max-width: 740px) 100vw, 740px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="744" height="1024" data-id="3788" src="/wp-content/uploads/2023/04/02-Abrapalabra-744x1024.webp" alt="" class="wp-image-3788" srcset="/wp-content/uploads/2023/04/02-Abrapalabra-744x1024.webp 744w, /wp-content/uploads/2023/04/02-Abrapalabra-218x300.webp 218w, /wp-content/uploads/2023/04/02-Abrapalabra-768x1057.webp 768w, /wp-content/uploads/2023/04/02-Abrapalabra-1116x1536.webp 1116w, /wp-content/uploads/2023/04/02-Abrapalabra.webp 1453w" sizes="(max-width: 744px) 100vw, 744px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="744" height="1024" data-id="3788" src="/primarium//wp-content/uploads/2023/04/02-Abrapalabra-744x1024.webp" alt="" class="wp-image-3788" srcset="/primarium//wp-content/uploads/2023/04/02-Abrapalabra-744x1024.webp 744w, /primarium//wp-content/uploads/2023/04/02-Abrapalabra-218x300.webp 218w, /primarium//wp-content/uploads/2023/04/02-Abrapalabra-768x1057.webp 768w, /primarium//wp-content/uploads/2023/04/02-Abrapalabra-1116x1536.webp 1116w, /primarium//wp-content/uploads/2023/04/02-Abrapalabra.webp 1453w" sizes="(max-width: 744px) 100vw, 744px" /></figure>
 <figcaption class="blocks-gallery-caption wp-element-caption">Letter chart and copy sheet from <em>Abrapalabra. La Magia de Escribir,</em> Perticari, P.S., Vetere, R.S., 2021, 3. AZ Editora S.A.</figcaption></figure>
 
 
@@ -51,7 +51,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="4132" src="/wp-content/uploads/2023/05/Argentina_abrapalabra.svg" alt="" class="wp-image-4907"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="4132" src="/primarium//wp-content/uploads/2023/05/Argentina_abrapalabra.svg" alt="" class="wp-image-4907"/></figure>
 ]]></content:encoded>
 					
 		
@@ -59,11 +59,11 @@
 			</item>
 		<item>
 		<title>Alfamovi Cursiva</title>
-		<link>/handwriting-models/alfamovi-cursiva/</link>
+		<link>/primarium//handwriting-models/alfamovi-cursiva/</link>
 		
 		<dc:creator><![CDATA[Pooja]]></dc:creator>
 		<pubDate>Mon, 24 Apr 2023 09:16:36 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=models#038;p=3913</guid>
+				<guid isPermaLink="false">/primarium//?post_type=models#038;p=3913</guid>
 
 					<description><![CDATA[Released in 2019, Alfamovi Cursiva is a custom font family designed by José Manuel López Rocha in collaboration with Cancun-based design studio, De Gante Design. It is part of the resources used in&#160;the production of the reference book El niño y las letras (2019) published by the Centro Educativo Monteverde, a private school in Cancun, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -75,7 +75,7 @@
     class="wp-block-gallery gallery--scrolling js-scrolling-box">
     <div
       class="gallery-scroll-wrapper js-scrolling-elements">
-            <img loading="lazy" decoding="async" width="2111" height="1679" src="/wp-content/uploads/2023/04/02-El-nino-y-las-letras.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/02-El-nino-y-las-letras.webp 2111w, /wp-content/uploads/2023/04/02-El-nino-y-las-letras-300x239.webp 300w, /wp-content/uploads/2023/04/02-El-nino-y-las-letras-1024x814.webp 1024w, /wp-content/uploads/2023/04/02-El-nino-y-las-letras-768x611.webp 768w, /wp-content/uploads/2023/04/02-El-nino-y-las-letras-1536x1222.webp 1536w, /wp-content/uploads/2023/04/02-El-nino-y-las-letras-2048x1629.webp 2048w" sizes="(max-width: 2111px) 100vw, 2111px" />            <img loading="lazy" decoding="async" width="2560" height="1981" src="/wp-content/uploads/2023/04/01-El-nino-y-las-letras-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/01-El-nino-y-las-letras-scaled.webp 2560w, /wp-content/uploads/2023/04/01-El-nino-y-las-letras-300x232.webp 300w, /wp-content/uploads/2023/04/01-El-nino-y-las-letras-1024x792.webp 1024w, /wp-content/uploads/2023/04/01-El-nino-y-las-letras-768x594.webp 768w, /wp-content/uploads/2023/04/01-El-nino-y-las-letras-1536x1189.webp 1536w, /wp-content/uploads/2023/04/01-El-nino-y-las-letras-2048x1585.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />            <img loading="lazy" decoding="async" width="2560" height="2038" src="/wp-content/uploads/2023/04/El-nino-y-las-letras-1-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/El-nino-y-las-letras-1-scaled.webp 2560w, /wp-content/uploads/2023/04/El-nino-y-las-letras-1-300x239.webp 300w, /wp-content/uploads/2023/04/El-nino-y-las-letras-1-1024x815.webp 1024w, /wp-content/uploads/2023/04/El-nino-y-las-letras-1-768x611.webp 768w, /wp-content/uploads/2023/04/El-nino-y-las-letras-1-1536x1223.webp 1536w, /wp-content/uploads/2023/04/El-nino-y-las-letras-1-2048x1630.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />          </div>
+            <img loading="lazy" decoding="async" width="2111" height="1679" src="/primarium//wp-content/uploads/2023/04/02-El-nino-y-las-letras.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/02-El-nino-y-las-letras.webp 2111w, /primarium//wp-content/uploads/2023/04/02-El-nino-y-las-letras-300x239.webp 300w, /primarium//wp-content/uploads/2023/04/02-El-nino-y-las-letras-1024x814.webp 1024w, /primarium//wp-content/uploads/2023/04/02-El-nino-y-las-letras-768x611.webp 768w, /primarium//wp-content/uploads/2023/04/02-El-nino-y-las-letras-1536x1222.webp 1536w, /primarium//wp-content/uploads/2023/04/02-El-nino-y-las-letras-2048x1629.webp 2048w" sizes="(max-width: 2111px) 100vw, 2111px" />            <img loading="lazy" decoding="async" width="2560" height="1981" src="/primarium//wp-content/uploads/2023/04/01-El-nino-y-las-letras-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/01-El-nino-y-las-letras-scaled.webp 2560w, /primarium//wp-content/uploads/2023/04/01-El-nino-y-las-letras-300x232.webp 300w, /primarium//wp-content/uploads/2023/04/01-El-nino-y-las-letras-1024x792.webp 1024w, /primarium//wp-content/uploads/2023/04/01-El-nino-y-las-letras-768x594.webp 768w, /primarium//wp-content/uploads/2023/04/01-El-nino-y-las-letras-1536x1189.webp 1536w, /primarium//wp-content/uploads/2023/04/01-El-nino-y-las-letras-2048x1585.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />            <img loading="lazy" decoding="async" width="2560" height="2038" src="/primarium//wp-content/uploads/2023/04/El-nino-y-las-letras-1-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/El-nino-y-las-letras-1-scaled.webp 2560w, /primarium//wp-content/uploads/2023/04/El-nino-y-las-letras-1-300x239.webp 300w, /primarium//wp-content/uploads/2023/04/El-nino-y-las-letras-1-1024x815.webp 1024w, /primarium//wp-content/uploads/2023/04/El-nino-y-las-letras-1-768x611.webp 768w, /primarium//wp-content/uploads/2023/04/El-nino-y-las-letras-1-1536x1223.webp 1536w, /primarium//wp-content/uploads/2023/04/El-nino-y-las-letras-1-2048x1630.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />          </div>
 
 
     <span class="gallery__arrows stacked-box">
@@ -102,7 +102,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1920" height="3583" src="/wp-content/uploads/2023/06/Mexico_alfamovi-cursiva.svg" alt="" class="wp-image-5128"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1920" height="3583" src="/primarium//wp-content/uploads/2023/06/Mexico_alfamovi-cursiva.svg" alt="" class="wp-image-5128"/></figure>
 ]]></content:encoded>
 					
 		
@@ -110,11 +110,11 @@
 			</item>
 		<item>
 		<title>Alku</title>
-		<link>/handwriting-models/alku/</link>
+		<link>/primarium//handwriting-models/alku/</link>
 		
 		<dc:creator><![CDATA[Pooja]]></dc:creator>
 		<pubDate>Mon, 13 Mar 2023 06:08:11 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=models#038;p=3412</guid>
+				<guid isPermaLink="false">/primarium//?post_type=models#038;p=3412</guid>
 
 					<description><![CDATA[Jarno Lukkarila developed the retail typeface Alku, based on the handwriting model Perusopetuksen mallikirjaimet, or Model letters for basic education, which he had created on the behest of the Opetushallitus (OPH), or Finnish National Agency for Education. Used for teaching primary school students in Grades 1 and 2, the typeface can be seen in handwriting [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -123,11 +123,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-2 is-cropped">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="724" data-id="3679" src="/wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-1024x724.webp" alt="" class="wp-image-3679" srcset="/wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-1024x724.webp 1024w, /wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-300x212.webp 300w, /wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-768x543.webp 768w, /wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-1536x1086.webp 1536w, /wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-2048x1447.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="724" data-id="3679" src="/primarium//wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-1024x724.webp" alt="" class="wp-image-3679" srcset="/primarium//wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-1024x724.webp 1024w, /primarium//wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-300x212.webp 300w, /primarium//wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-768x543.webp 768w, /primarium//wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-1536x1086.webp 1536w, /primarium//wp-content/uploads/2023/04/Mallikirjainten-Piirtosuunnat-2048x1447.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="724" data-id="3678" src="/wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-1024x724.webp" alt="" class="wp-image-3678" srcset="/wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-1024x724.webp 1024w, /wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-300x212.webp 300w, /wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-768x543.webp 768w, /wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-1536x1086.webp 1536w, /wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-2048x1447.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="724" data-id="3678" src="/primarium//wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-1024x724.webp" alt="" class="wp-image-3678" srcset="/primarium//wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-1024x724.webp 1024w, /primarium//wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-300x212.webp 300w, /primarium//wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-768x543.webp 768w, /primarium//wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-1536x1086.webp 1536w, /primarium//wp-content/uploads/2023/04/Mallikirjainten-Numeroiden-Muiden-Merkkien-Piirtosuunnat-2048x1447.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 <figcaption class="blocks-gallery-caption wp-element-caption">Samples of uppercase and lowercase alphabets of <em>Alku Handwriting</em>, Jarno Lukkarila, 2016. Opetushallitus – OPH, Finland.</figcaption></figure>
 
 
@@ -140,7 +140,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2023/04/infographic-Finland_alku.svg" alt="" class="wp-image-3681" width="841" height="1388"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="/primarium//wp-content/uploads/2023/04/infographic-Finland_alku.svg" alt="" class="wp-image-3681" width="841" height="1388"/></figure>
 
 
 
@@ -152,11 +152,11 @@
 			</item>
 		<item>
 		<title>Barcanova Editorial</title>
-		<link>/handwriting-models/barcanova-editorial/</link>
+		<link>/primarium//handwriting-models/barcanova-editorial/</link>
 		
 		<dc:creator><![CDATA[Pooja]]></dc:creator>
 		<pubDate>Thu, 20 Apr 2023 09:56:46 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=models#038;p=3828</guid>
+				<guid isPermaLink="false">/primarium//?post_type=models#038;p=3828</guid>
 
 					<description><![CDATA[Editorial Barcanova was founded in 1980, and it specialises in educational publications; resources for schools, teachers, and students; and children’s and adult literature. Its activities have been focused on Catalonia&#8217;s cultural and educational landscape. The typeface used in Editorial Barcanova’s handwriting textbooks is MeMimas, developed in 1991 by José Manuel Urós of Type-Ø-Tones. According to [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -168,7 +168,7 @@
     class="wp-block-gallery gallery--scrolling js-scrolling-box">
     <div
       class="gallery-scroll-wrapper js-scrolling-elements">
-            <img loading="lazy" decoding="async" width="1400" height="910" src="/wp-content/uploads/2023/04/01_Barcanova-Editorial.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/01_Barcanova-Editorial.webp 1400w, /wp-content/uploads/2023/04/01_Barcanova-Editorial-300x195.webp 300w, /wp-content/uploads/2023/04/01_Barcanova-Editorial-1024x666.webp 1024w, /wp-content/uploads/2023/04/01_Barcanova-Editorial-768x499.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="905" src="/wp-content/uploads/2023/04/02_Barcanova-Editorial.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/02_Barcanova-Editorial.webp 1400w, /wp-content/uploads/2023/04/02_Barcanova-Editorial-300x194.webp 300w, /wp-content/uploads/2023/04/02_Barcanova-Editorial-1024x662.webp 1024w, /wp-content/uploads/2023/04/02_Barcanova-Editorial-768x496.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="904" src="/wp-content/uploads/2023/04/03_Barcanova-Editorial.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/03_Barcanova-Editorial.webp 1400w, /wp-content/uploads/2023/04/03_Barcanova-Editorial-300x194.webp 300w, /wp-content/uploads/2023/04/03_Barcanova-Editorial-1024x661.webp 1024w, /wp-content/uploads/2023/04/03_Barcanova-Editorial-768x496.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="911" src="/wp-content/uploads/2023/04/04_Barcanova-Editorial.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/04_Barcanova-Editorial.webp 1400w, /wp-content/uploads/2023/04/04_Barcanova-Editorial-300x195.webp 300w, /wp-content/uploads/2023/04/04_Barcanova-Editorial-1024x666.webp 1024w, /wp-content/uploads/2023/04/04_Barcanova-Editorial-768x500.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="903" src="/wp-content/uploads/2023/04/05_Barcanova-Editorial.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/05_Barcanova-Editorial.webp 1400w, /wp-content/uploads/2023/04/05_Barcanova-Editorial-300x194.webp 300w, /wp-content/uploads/2023/04/05_Barcanova-Editorial-1024x660.webp 1024w, /wp-content/uploads/2023/04/05_Barcanova-Editorial-768x495.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />          </div>
+            <img loading="lazy" decoding="async" width="1400" height="910" src="/primarium//wp-content/uploads/2023/04/01_Barcanova-Editorial.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/01_Barcanova-Editorial.webp 1400w, /primarium//wp-content/uploads/2023/04/01_Barcanova-Editorial-300x195.webp 300w, /primarium//wp-content/uploads/2023/04/01_Barcanova-Editorial-1024x666.webp 1024w, /primarium//wp-content/uploads/2023/04/01_Barcanova-Editorial-768x499.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="905" src="/primarium//wp-content/uploads/2023/04/02_Barcanova-Editorial.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/02_Barcanova-Editorial.webp 1400w, /primarium//wp-content/uploads/2023/04/02_Barcanova-Editorial-300x194.webp 300w, /primarium//wp-content/uploads/2023/04/02_Barcanova-Editorial-1024x662.webp 1024w, /primarium//wp-content/uploads/2023/04/02_Barcanova-Editorial-768x496.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="904" src="/primarium//wp-content/uploads/2023/04/03_Barcanova-Editorial.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/03_Barcanova-Editorial.webp 1400w, /primarium//wp-content/uploads/2023/04/03_Barcanova-Editorial-300x194.webp 300w, /primarium//wp-content/uploads/2023/04/03_Barcanova-Editorial-1024x661.webp 1024w, /primarium//wp-content/uploads/2023/04/03_Barcanova-Editorial-768x496.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="911" src="/primarium//wp-content/uploads/2023/04/04_Barcanova-Editorial.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/04_Barcanova-Editorial.webp 1400w, /primarium//wp-content/uploads/2023/04/04_Barcanova-Editorial-300x195.webp 300w, /primarium//wp-content/uploads/2023/04/04_Barcanova-Editorial-1024x666.webp 1024w, /primarium//wp-content/uploads/2023/04/04_Barcanova-Editorial-768x500.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="903" src="/primarium//wp-content/uploads/2023/04/05_Barcanova-Editorial.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/05_Barcanova-Editorial.webp 1400w, /primarium//wp-content/uploads/2023/04/05_Barcanova-Editorial-300x194.webp 300w, /primarium//wp-content/uploads/2023/04/05_Barcanova-Editorial-1024x660.webp 1024w, /primarium//wp-content/uploads/2023/04/05_Barcanova-Editorial-768x495.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />          </div>
 
 
     <span class="gallery__arrows stacked-box">
@@ -199,7 +199,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="4275" src="/wp-content/uploads/2023/05/Spain_barcanova-editorial-1.svg" alt="" class="wp-image-4920"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="4275" src="/primarium//wp-content/uploads/2023/05/Spain_barcanova-editorial-1.svg" alt="" class="wp-image-4920"/></figure>
 ]]></content:encoded>
 					
 		
@@ -207,11 +207,11 @@
 			</item>
 		<item>
 		<title>Barchowsky Fluent Hand</title>
-		<link>/handwriting-models/barchowsky-fluent-hand-2/</link>
+		<link>/primarium//handwriting-models/barchowsky-fluent-hand-2/</link>
 		
 		<dc:creator><![CDATA[Jose]]></dc:creator>
 		<pubDate>Thu, 27 Jul 2023 05:47:13 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=models#038;p=5602</guid>
+				<guid isPermaLink="false">/primarium//?post_type=models#038;p=5602</guid>
 
 					<description><![CDATA[Nan Jay Barchowsky devised the Barchowsky Fluent Hand method, drawing from the revival of italic calligraphy in early 20th-century Britain, and her own classroom-teaching experience. She released the first guide based on her writing teaching system in 1997. Barchowsky Fluent Hand has two progressive stages. The basic style is taught to students in preschool and [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -223,7 +223,7 @@
     class="wp-block-gallery gallery--scrolling js-scrolling-box">
     <div
       class="gallery-scroll-wrapper js-scrolling-elements">
-            <img loading="lazy" decoding="async" width="1975" height="2560" src="/wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-scaled.webp 1975w, /wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-231x300.webp 231w, /wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-790x1024.webp 790w, /wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-768x996.webp 768w, /wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-1185x1536.webp 1185w, /wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-1580x2048.webp 1580w" sizes="(max-width: 1975px) 100vw, 1975px" />            <img loading="lazy" decoding="async" width="1975" height="2560" src="/wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-scaled.webp 1975w, /wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-231x300.webp 231w, /wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-790x1024.webp 790w, /wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-768x996.webp 768w, /wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-1185x1536.webp 1185w, /wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-1580x2048.webp 1580w" sizes="(max-width: 1975px) 100vw, 1975px" />            <img loading="lazy" decoding="async" width="1975" height="2560" src="/wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-scaled.webp 1975w, /wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-231x300.webp 231w, /wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-790x1024.webp 790w, /wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-768x996.webp 768w, /wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-1185x1536.webp 1185w, /wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-1580x2048.webp 1580w" sizes="(max-width: 1975px) 100vw, 1975px" />            <img loading="lazy" decoding="async" width="1975" height="2560" src="/wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-scaled.webp 1975w, /wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-231x300.webp 231w, /wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-790x1024.webp 790w, /wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-768x996.webp 768w, /wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-1185x1536.webp 1185w, /wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-1580x2048.webp 1580w" sizes="(max-width: 1975px) 100vw, 1975px" />            <img loading="lazy" decoding="async" width="1975" height="2560" src="/wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-scaled.webp 1975w, /wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-231x300.webp 231w, /wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-790x1024.webp 790w, /wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-768x996.webp 768w, /wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-1185x1536.webp 1185w, /wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-1580x2048.webp 1580w" sizes="(max-width: 1975px) 100vw, 1975px" />          </div>
+            <img loading="lazy" decoding="async" width="1975" height="2560" src="/primarium//wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-scaled.webp 1975w, /primarium//wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-231x300.webp 231w, /primarium//wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-790x1024.webp 790w, /primarium//wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-768x996.webp 768w, /primarium//wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-1185x1536.webp 1185w, /primarium//wp-content/uploads/2023/07/01_Barchowsky-Fluent-Hand-1580x2048.webp 1580w" sizes="(max-width: 1975px) 100vw, 1975px" />            <img loading="lazy" decoding="async" width="1975" height="2560" src="/primarium//wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-scaled.webp 1975w, /primarium//wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-231x300.webp 231w, /primarium//wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-790x1024.webp 790w, /primarium//wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-768x996.webp 768w, /primarium//wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-1185x1536.webp 1185w, /primarium//wp-content/uploads/2023/07/02_Barchowsky-Fluent-Hand-1580x2048.webp 1580w" sizes="(max-width: 1975px) 100vw, 1975px" />            <img loading="lazy" decoding="async" width="1975" height="2560" src="/primarium//wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-scaled.webp 1975w, /primarium//wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-231x300.webp 231w, /primarium//wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-790x1024.webp 790w, /primarium//wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-768x996.webp 768w, /primarium//wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-1185x1536.webp 1185w, /primarium//wp-content/uploads/2023/07/03_Barchowsky-Fluent-Hand-1580x2048.webp 1580w" sizes="(max-width: 1975px) 100vw, 1975px" />            <img loading="lazy" decoding="async" width="1975" height="2560" src="/primarium//wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-scaled.webp 1975w, /primarium//wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-231x300.webp 231w, /primarium//wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-790x1024.webp 790w, /primarium//wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-768x996.webp 768w, /primarium//wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-1185x1536.webp 1185w, /primarium//wp-content/uploads/2023/07/04_Barchowsky-Fluent-Hand-1580x2048.webp 1580w" sizes="(max-width: 1975px) 100vw, 1975px" />            <img loading="lazy" decoding="async" width="1975" height="2560" src="/primarium//wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-scaled.webp 1975w, /primarium//wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-231x300.webp 231w, /primarium//wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-790x1024.webp 790w, /primarium//wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-768x996.webp 768w, /primarium//wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-1185x1536.webp 1185w, /primarium//wp-content/uploads/2023/07/05_Barchowsky-Fluent-Hand-1580x2048.webp 1580w" sizes="(max-width: 1975px) 100vw, 1975px" />          </div>
 
 
     <span class="gallery__arrows stacked-box">
@@ -254,7 +254,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3818" src="/wp-content/uploads/2023/07/infographic-USA_barchowsky-fluent-hand.svg" alt="" class="wp-image-5604"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3818" src="/primarium//wp-content/uploads/2023/07/infographic-USA_barchowsky-fluent-hand.svg" alt="" class="wp-image-5604"/></figure>
 ]]></content:encoded>
 					
 		
@@ -262,11 +262,11 @@
 			</item>
 		<item>
 		<title>Comenia Script</title>
-		<link>/handwriting-models/comenia-script/</link>
+		<link>/primarium//handwriting-models/comenia-script/</link>
 		
 		<dc:creator><![CDATA[Pooja]]></dc:creator>
 		<pubDate>Thu, 29 Jun 2023 06:12:41 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=models#038;p=5395</guid>
+				<guid isPermaLink="false">/primarium//?post_type=models#038;p=5395</guid>
 
 					<description><![CDATA[Comenia Script is a typeface family developed by Radana Lencová. She began work on it 2002–05 as part of her doctoral thesis, and continued its development for a further five years. Between 2005 and 2010, in collaboration with the Pedagogical Faculty of Charles University (PedF UK) in Prague, she conducted tests in schools to evaluate [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -278,7 +278,7 @@
     class="wp-block-gallery gallery--scrolling js-scrolling-box">
     <div
       class="gallery-scroll-wrapper js-scrolling-elements">
-            <img loading="lazy" decoding="async" width="1137" height="900" src="/wp-content/uploads/2023/06/Comenia-Script-02.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/06/Comenia-Script-02.webp 1137w, /wp-content/uploads/2023/06/Comenia-Script-02-300x237.webp 300w, /wp-content/uploads/2023/06/Comenia-Script-02-1024x811.webp 1024w, /wp-content/uploads/2023/06/Comenia-Script-02-768x608.webp 768w" sizes="(max-width: 1137px) 100vw, 1137px" />            <img loading="lazy" decoding="async" width="1522" height="900" src="/wp-content/uploads/2023/06/Comenia-Script-01.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/06/Comenia-Script-01.webp 1522w, /wp-content/uploads/2023/06/Comenia-Script-01-300x177.webp 300w, /wp-content/uploads/2023/06/Comenia-Script-01-1024x606.webp 1024w, /wp-content/uploads/2023/06/Comenia-Script-01-768x454.webp 768w" sizes="(max-width: 1522px) 100vw, 1522px" />            <img loading="lazy" decoding="async" width="2303" height="900" src="/wp-content/uploads/2023/06/Comenia-Script-04.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/06/Comenia-Script-04.webp 2303w, /wp-content/uploads/2023/06/Comenia-Script-04-300x117.webp 300w, /wp-content/uploads/2023/06/Comenia-Script-04-1024x400.webp 1024w, /wp-content/uploads/2023/06/Comenia-Script-04-768x300.webp 768w, /wp-content/uploads/2023/06/Comenia-Script-04-1536x600.webp 1536w, /wp-content/uploads/2023/06/Comenia-Script-04-2048x800.webp 2048w" sizes="(max-width: 2303px) 100vw, 2303px" />            <img loading="lazy" decoding="async" width="1258" height="900" src="/wp-content/uploads/2023/06/Comenia-Script-05.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/06/Comenia-Script-05.webp 1258w, /wp-content/uploads/2023/06/Comenia-Script-05-300x215.webp 300w, /wp-content/uploads/2023/06/Comenia-Script-05-1024x733.webp 1024w, /wp-content/uploads/2023/06/Comenia-Script-05-768x549.webp 768w" sizes="(max-width: 1258px) 100vw, 1258px" />            <img loading="lazy" decoding="async" width="2251" height="900" src="/wp-content/uploads/2023/06/Comenia-Script-03.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/06/Comenia-Script-03.webp 2251w, /wp-content/uploads/2023/06/Comenia-Script-03-300x120.webp 300w, /wp-content/uploads/2023/06/Comenia-Script-03-1024x409.webp 1024w, /wp-content/uploads/2023/06/Comenia-Script-03-768x307.webp 768w, /wp-content/uploads/2023/06/Comenia-Script-03-1536x614.webp 1536w, /wp-content/uploads/2023/06/Comenia-Script-03-2048x819.webp 2048w" sizes="(max-width: 2251px) 100vw, 2251px" />          </div>
+            <img loading="lazy" decoding="async" width="1137" height="900" src="/primarium//wp-content/uploads/2023/06/Comenia-Script-02.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/06/Comenia-Script-02.webp 1137w, /primarium//wp-content/uploads/2023/06/Comenia-Script-02-300x237.webp 300w, /primarium//wp-content/uploads/2023/06/Comenia-Script-02-1024x811.webp 1024w, /primarium//wp-content/uploads/2023/06/Comenia-Script-02-768x608.webp 768w" sizes="(max-width: 1137px) 100vw, 1137px" />            <img loading="lazy" decoding="async" width="1522" height="900" src="/primarium//wp-content/uploads/2023/06/Comenia-Script-01.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/06/Comenia-Script-01.webp 1522w, /primarium//wp-content/uploads/2023/06/Comenia-Script-01-300x177.webp 300w, /primarium//wp-content/uploads/2023/06/Comenia-Script-01-1024x606.webp 1024w, /primarium//wp-content/uploads/2023/06/Comenia-Script-01-768x454.webp 768w" sizes="(max-width: 1522px) 100vw, 1522px" />            <img loading="lazy" decoding="async" width="2303" height="900" src="/primarium//wp-content/uploads/2023/06/Comenia-Script-04.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/06/Comenia-Script-04.webp 2303w, /primarium//wp-content/uploads/2023/06/Comenia-Script-04-300x117.webp 300w, /primarium//wp-content/uploads/2023/06/Comenia-Script-04-1024x400.webp 1024w, /primarium//wp-content/uploads/2023/06/Comenia-Script-04-768x300.webp 768w, /primarium//wp-content/uploads/2023/06/Comenia-Script-04-1536x600.webp 1536w, /primarium//wp-content/uploads/2023/06/Comenia-Script-04-2048x800.webp 2048w" sizes="(max-width: 2303px) 100vw, 2303px" />            <img loading="lazy" decoding="async" width="1258" height="900" src="/primarium//wp-content/uploads/2023/06/Comenia-Script-05.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/06/Comenia-Script-05.webp 1258w, /primarium//wp-content/uploads/2023/06/Comenia-Script-05-300x215.webp 300w, /primarium//wp-content/uploads/2023/06/Comenia-Script-05-1024x733.webp 1024w, /primarium//wp-content/uploads/2023/06/Comenia-Script-05-768x549.webp 768w" sizes="(max-width: 1258px) 100vw, 1258px" />            <img loading="lazy" decoding="async" width="2251" height="900" src="/primarium//wp-content/uploads/2023/06/Comenia-Script-03.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/06/Comenia-Script-03.webp 2251w, /primarium//wp-content/uploads/2023/06/Comenia-Script-03-300x120.webp 300w, /primarium//wp-content/uploads/2023/06/Comenia-Script-03-1024x409.webp 1024w, /primarium//wp-content/uploads/2023/06/Comenia-Script-03-768x307.webp 768w, /primarium//wp-content/uploads/2023/06/Comenia-Script-03-1536x614.webp 1536w, /primarium//wp-content/uploads/2023/06/Comenia-Script-03-2048x819.webp 2048w" sizes="(max-width: 2251px) 100vw, 2251px" />          </div>
 
 
     <span class="gallery__arrows stacked-box">
@@ -309,7 +309,7 @@
     class="wp-block-gallery gallery--scrolling js-scrolling-box">
     <div
       class="gallery-scroll-wrapper js-scrolling-elements">
-            <img loading="lazy" decoding="async" width="1053" height="1400" src="/wp-content/uploads/2023/06/Comenia02.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/06/Comenia02.webp 1053w, /wp-content/uploads/2023/06/Comenia02-226x300.webp 226w, /wp-content/uploads/2023/06/Comenia02-770x1024.webp 770w, /wp-content/uploads/2023/06/Comenia02-768x1021.webp 768w" sizes="(max-width: 1053px) 100vw, 1053px" />            <img loading="lazy" decoding="async" width="969" height="1400" src="/wp-content/uploads/2023/06/Comenia04.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/06/Comenia04.webp 969w, /wp-content/uploads/2023/06/Comenia04-208x300.webp 208w, /wp-content/uploads/2023/06/Comenia04-709x1024.webp 709w, /wp-content/uploads/2023/06/Comenia04-768x1110.webp 768w" sizes="(max-width: 969px) 100vw, 969px" />            <img loading="lazy" decoding="async" width="1041" height="1400" src="/wp-content/uploads/2023/06/Comenia03.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/06/Comenia03.webp 1041w, /wp-content/uploads/2023/06/Comenia03-223x300.webp 223w, /wp-content/uploads/2023/06/Comenia03-761x1024.webp 761w, /wp-content/uploads/2023/06/Comenia03-768x1033.webp 768w" sizes="(max-width: 1041px) 100vw, 1041px" />            <img loading="lazy" decoding="async" width="1074" height="1400" src="/wp-content/uploads/2023/06/Comenia01.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/06/Comenia01.webp 1074w, /wp-content/uploads/2023/06/Comenia01-230x300.webp 230w, /wp-content/uploads/2023/06/Comenia01-786x1024.webp 786w, /wp-content/uploads/2023/06/Comenia01-768x1001.webp 768w" sizes="(max-width: 1074px) 100vw, 1074px" />          </div>
+            <img loading="lazy" decoding="async" width="1053" height="1400" src="/primarium//wp-content/uploads/2023/06/Comenia02.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/06/Comenia02.webp 1053w, /primarium//wp-content/uploads/2023/06/Comenia02-226x300.webp 226w, /primarium//wp-content/uploads/2023/06/Comenia02-770x1024.webp 770w, /primarium//wp-content/uploads/2023/06/Comenia02-768x1021.webp 768w" sizes="(max-width: 1053px) 100vw, 1053px" />            <img loading="lazy" decoding="async" width="969" height="1400" src="/primarium//wp-content/uploads/2023/06/Comenia04.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/06/Comenia04.webp 969w, /primarium//wp-content/uploads/2023/06/Comenia04-208x300.webp 208w, /primarium//wp-content/uploads/2023/06/Comenia04-709x1024.webp 709w, /primarium//wp-content/uploads/2023/06/Comenia04-768x1110.webp 768w" sizes="(max-width: 969px) 100vw, 969px" />            <img loading="lazy" decoding="async" width="1041" height="1400" src="/primarium//wp-content/uploads/2023/06/Comenia03.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/06/Comenia03.webp 1041w, /primarium//wp-content/uploads/2023/06/Comenia03-223x300.webp 223w, /primarium//wp-content/uploads/2023/06/Comenia03-761x1024.webp 761w, /primarium//wp-content/uploads/2023/06/Comenia03-768x1033.webp 768w" sizes="(max-width: 1041px) 100vw, 1041px" />            <img loading="lazy" decoding="async" width="1074" height="1400" src="/primarium//wp-content/uploads/2023/06/Comenia01.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/06/Comenia01.webp 1074w, /primarium//wp-content/uploads/2023/06/Comenia01-230x300.webp 230w, /primarium//wp-content/uploads/2023/06/Comenia01-786x1024.webp 786w, /primarium//wp-content/uploads/2023/06/Comenia01-768x1001.webp 768w" sizes="(max-width: 1074px) 100vw, 1074px" />          </div>
 
 
     <span class="gallery__arrows stacked-box">
@@ -336,7 +336,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3248" src="/wp-content/uploads/2023/06/CzechRepublic_comenia-script.svg" alt="" class="wp-image-5404"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3248" src="/primarium//wp-content/uploads/2023/06/CzechRepublic_comenia-script.svg" alt="" class="wp-image-5404"/></figure>
 ]]></content:encoded>
 					
 		
@@ -344,11 +344,11 @@
 			</item>
 		<item>
 		<title>Coquito</title>
-		<link>/handwriting-models/coquito/</link>
+		<link>/primarium//handwriting-models/coquito/</link>
 		
 		<dc:creator><![CDATA[Pooja]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 07:16:37 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=models#038;p=3646</guid>
+				<guid isPermaLink="false">/primarium//?post_type=models#038;p=3646</guid>
 
 					<description><![CDATA[Coquito Ediciones produces handwriting and calligraphy workbooks for students that are among the most favoured in Perú, as well as sold in more than a dozen countries. Among their publications are three books for preschool called Preescritura, or Pre-writing, that provide tracing exercises and letter recognition lessons, and five books for students aged 7–8 years [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -364,7 +364,7 @@
     class="wp-block-gallery gallery--scrolling js-scrolling-box">
     <div
       class="gallery-scroll-wrapper js-scrolling-elements">
-            <img loading="lazy" decoding="async" width="1400" height="944" src="/wp-content/uploads/2023/04/01-Vamos-a-escribir-ligada-1.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/01-Vamos-a-escribir-ligada-1.webp 1400w, /wp-content/uploads/2023/04/01-Vamos-a-escribir-ligada-1-300x202.webp 300w, /wp-content/uploads/2023/04/01-Vamos-a-escribir-ligada-1-1024x690.webp 1024w, /wp-content/uploads/2023/04/01-Vamos-a-escribir-ligada-1-768x518.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="937" src="/wp-content/uploads/2023/04/02-Vamos-a-escribir-ligada-1.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/02-Vamos-a-escribir-ligada-1.webp 1400w, /wp-content/uploads/2023/04/02-Vamos-a-escribir-ligada-1-300x201.webp 300w, /wp-content/uploads/2023/04/02-Vamos-a-escribir-ligada-1-1024x685.webp 1024w, /wp-content/uploads/2023/04/02-Vamos-a-escribir-ligada-1-768x514.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="943" src="/wp-content/uploads/2023/04/03-Vamos-a-escribir-ligada-1.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/03-Vamos-a-escribir-ligada-1.webp 1400w, /wp-content/uploads/2023/04/03-Vamos-a-escribir-ligada-1-300x202.webp 300w, /wp-content/uploads/2023/04/03-Vamos-a-escribir-ligada-1-1024x690.webp 1024w, /wp-content/uploads/2023/04/03-Vamos-a-escribir-ligada-1-768x517.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />          </div>
+            <img loading="lazy" decoding="async" width="1400" height="944" src="/primarium//wp-content/uploads/2023/04/01-Vamos-a-escribir-ligada-1.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/01-Vamos-a-escribir-ligada-1.webp 1400w, /primarium//wp-content/uploads/2023/04/01-Vamos-a-escribir-ligada-1-300x202.webp 300w, /primarium//wp-content/uploads/2023/04/01-Vamos-a-escribir-ligada-1-1024x690.webp 1024w, /primarium//wp-content/uploads/2023/04/01-Vamos-a-escribir-ligada-1-768x518.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="937" src="/primarium//wp-content/uploads/2023/04/02-Vamos-a-escribir-ligada-1.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/02-Vamos-a-escribir-ligada-1.webp 1400w, /primarium//wp-content/uploads/2023/04/02-Vamos-a-escribir-ligada-1-300x201.webp 300w, /primarium//wp-content/uploads/2023/04/02-Vamos-a-escribir-ligada-1-1024x685.webp 1024w, /primarium//wp-content/uploads/2023/04/02-Vamos-a-escribir-ligada-1-768x514.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />            <img loading="lazy" decoding="async" width="1400" height="943" src="/primarium//wp-content/uploads/2023/04/03-Vamos-a-escribir-ligada-1.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/03-Vamos-a-escribir-ligada-1.webp 1400w, /primarium//wp-content/uploads/2023/04/03-Vamos-a-escribir-ligada-1-300x202.webp 300w, /primarium//wp-content/uploads/2023/04/03-Vamos-a-escribir-ligada-1-1024x690.webp 1024w, /primarium//wp-content/uploads/2023/04/03-Vamos-a-escribir-ligada-1-768x517.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" />          </div>
 
 
     <span class="gallery__arrows stacked-box">
@@ -395,7 +395,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3615" src="/wp-content/uploads/2023/05/infographic-Peru_coquito.svg" alt="" class="wp-image-4926"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3615" src="/primarium//wp-content/uploads/2023/05/infographic-Peru_coquito.svg" alt="" class="wp-image-4926"/></figure>
 ]]></content:encoded>
 					
 		
@@ -403,11 +403,11 @@
 			</item>
 		<item>
 		<title>Corsivo Tradizionale</title>
-		<link>/handwriting-models/corsivo-tradizionale/</link>
+		<link>/primarium//handwriting-models/corsivo-tradizionale/</link>
 		
 		<dc:creator><![CDATA[Pooja]]></dc:creator>
 		<pubDate>Tue, 04 Jul 2023 09:53:23 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=models#038;p=5420</guid>
+				<guid isPermaLink="false">/primarium//?post_type=models#038;p=5420</guid>
 
 					<description><![CDATA[Traditional Italian cursive writing became formalised around 1940, and has since remained dominant in handwriting instruction in schools. Textbooks by major publishers, such as Giunti Editore, Erickson and Fabbri Editori, illustrate this model using a variety of lettering, drawings, and typefaces that share formal and structural features. The typeface Pinocchio, designed by Gianni Marcolongo and [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -419,7 +419,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="664" src="/wp-content/uploads/2023/07/Italy-pangram_Pinocchio.svg" alt="" class="wp-image-5421"/><figcaption class="wp-element-caption">Sample of the traditional upright cursive model in Italy from Pinocchio font by Gianni Marcolongo, 2006.</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="664" src="/primarium//wp-content/uploads/2023/07/Italy-pangram_Pinocchio.svg" alt="" class="wp-image-5421"/><figcaption class="wp-element-caption">Sample of the traditional upright cursive model in Italy from Pinocchio font by Gianni Marcolongo, 2006.</figcaption></figure>
 
 
 
@@ -427,7 +427,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3665" src="/wp-content/uploads/2023/07/Italy_corsivo-tradizionale-1.svg" alt="" class="wp-image-5427"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3665" src="/primarium//wp-content/uploads/2023/07/Italy_corsivo-tradizionale-1.svg" alt="" class="wp-image-5427"/></figure>
 ]]></content:encoded>
 					
 		
@@ -435,11 +435,11 @@
 			</item>
 		<item>
 		<title>Cuadernos de Escritura</title>
-		<link>/handwriting-models/cuadernos-de-escritura/</link>
+		<link>/primarium//handwriting-models/cuadernos-de-escritura/</link>
 		
 		<dc:creator><![CDATA[Pooja]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 04:52:53 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=models#038;p=3603</guid>
+				<guid isPermaLink="false">/primarium//?post_type=models#038;p=3603</guid>
 
 					<description><![CDATA[The handwriting books published by the Ministerio de Educación, or Ministry of Education, between 1988–91 show samples of hand-drawn cursive writing based on the Palmer Method, though the letter shapes, notably the uppercase letters, have been simplified. These samples have been created by Marianela Cañaz González and Martha Tresancos Spín for the books Escritura 1 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -448,15 +448,15 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-3 is-cropped">
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2023/04/01-Minedu-Workbook.webp" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="924" height="1404" data-id="3606" src="/wp-content/uploads/2023/04/01-Minedu-Workbook.webp" alt="" class="wp-image-3606" srcset="/wp-content/uploads/2023/04/01-Minedu-Workbook.webp 924w, /wp-content/uploads/2023/04/01-Minedu-Workbook-197x300.webp 197w, /wp-content/uploads/2023/04/01-Minedu-Workbook-674x1024.webp 674w, /wp-content/uploads/2023/04/01-Minedu-Workbook-768x1167.webp 768w" sizes="(max-width: 924px) 100vw, 924px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/primarium//wp-content/uploads/2023/04/01-Minedu-Workbook.webp" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="924" height="1404" data-id="3606" src="/primarium//wp-content/uploads/2023/04/01-Minedu-Workbook.webp" alt="" class="wp-image-3606" srcset="/primarium//wp-content/uploads/2023/04/01-Minedu-Workbook.webp 924w, /primarium//wp-content/uploads/2023/04/01-Minedu-Workbook-197x300.webp 197w, /primarium//wp-content/uploads/2023/04/01-Minedu-Workbook-674x1024.webp 674w, /primarium//wp-content/uploads/2023/04/01-Minedu-Workbook-768x1167.webp 768w" sizes="(max-width: 924px) 100vw, 924px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2023/04/02-Minedu-Workbook.webp" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="1256" height="1812" data-id="3608" src="/wp-content/uploads/2023/04/02-Minedu-Workbook.webp" alt="" class="wp-image-3608" srcset="/wp-content/uploads/2023/04/02-Minedu-Workbook.webp 1256w, /wp-content/uploads/2023/04/02-Minedu-Workbook-208x300.webp 208w, /wp-content/uploads/2023/04/02-Minedu-Workbook-710x1024.webp 710w, /wp-content/uploads/2023/04/02-Minedu-Workbook-768x1108.webp 768w, /wp-content/uploads/2023/04/02-Minedu-Workbook-1065x1536.webp 1065w" sizes="(max-width: 1256px) 100vw, 1256px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/primarium//wp-content/uploads/2023/04/02-Minedu-Workbook.webp" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="1256" height="1812" data-id="3608" src="/primarium//wp-content/uploads/2023/04/02-Minedu-Workbook.webp" alt="" class="wp-image-3608" srcset="/primarium//wp-content/uploads/2023/04/02-Minedu-Workbook.webp 1256w, /primarium//wp-content/uploads/2023/04/02-Minedu-Workbook-208x300.webp 208w, /primarium//wp-content/uploads/2023/04/02-Minedu-Workbook-710x1024.webp 710w, /primarium//wp-content/uploads/2023/04/02-Minedu-Workbook-768x1108.webp 768w, /primarium//wp-content/uploads/2023/04/02-Minedu-Workbook-1065x1536.webp 1065w" sizes="(max-width: 1256px) 100vw, 1256px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2023/04/03-Minedu-Workbook.webp" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="1242" height="1788" data-id="3607" src="/wp-content/uploads/2023/04/03-Minedu-Workbook.webp" alt="" class="wp-image-3607" srcset="/wp-content/uploads/2023/04/03-Minedu-Workbook.webp 1242w, /wp-content/uploads/2023/04/03-Minedu-Workbook-208x300.webp 208w, /wp-content/uploads/2023/04/03-Minedu-Workbook-711x1024.webp 711w, /wp-content/uploads/2023/04/03-Minedu-Workbook-768x1106.webp 768w, /wp-content/uploads/2023/04/03-Minedu-Workbook-1067x1536.webp 1067w" sizes="(max-width: 1242px) 100vw, 1242px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/primarium//wp-content/uploads/2023/04/03-Minedu-Workbook.webp" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="1242" height="1788" data-id="3607" src="/primarium//wp-content/uploads/2023/04/03-Minedu-Workbook.webp" alt="" class="wp-image-3607" srcset="/primarium//wp-content/uploads/2023/04/03-Minedu-Workbook.webp 1242w, /primarium//wp-content/uploads/2023/04/03-Minedu-Workbook-208x300.webp 208w, /primarium//wp-content/uploads/2023/04/03-Minedu-Workbook-711x1024.webp 711w, /primarium//wp-content/uploads/2023/04/03-Minedu-Workbook-768x1106.webp 768w, /primarium//wp-content/uploads/2023/04/03-Minedu-Workbook-1067x1536.webp 1067w" sizes="(max-width: 1242px) 100vw, 1242px" /></a></figure>
 <figcaption class="blocks-gallery-caption wp-element-caption">Sample pages from workbooks for writing education, published by the Minedu.</figcaption></figure>
 
 
@@ -469,7 +469,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3395" src="/wp-content/uploads/2023/05/infographic-Cuba_cuadernos-de-escritura.svg" alt="" class="wp-image-4928"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3395" src="/primarium//wp-content/uploads/2023/05/infographic-Cuba_cuadernos-de-escritura.svg" alt="" class="wp-image-4928"/></figure>
 ]]></content:encoded>
 					
 		
@@ -477,11 +477,11 @@
 			</item>
 		<item>
 		<title>Cuadernos Rubio</title>
-		<link>/handwriting-models/cuadernos-rubio/</link>
+		<link>/primarium//handwriting-models/cuadernos-rubio/</link>
 		
 		<dc:creator><![CDATA[Pooja]]></dc:creator>
 		<pubDate>Thu, 20 Apr 2023 09:37:58 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=models#038;p=3820</guid>
+				<guid isPermaLink="false">/primarium//?post_type=models#038;p=3820</guid>
 
 					<description><![CDATA[Cuadernos Rubio are traditional handwriting workbooks in Spain, published by the private publishing company Rubio, having been in circulation since the 1950s. They showcase the practice of teaching handwriting using a hybrid cursive approach that mixes print script uppercase letters with continuous cursive lowercase letters. The typeface used in Cuadernos Rubio is a version of [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -493,7 +493,7 @@
     class="wp-block-gallery gallery--scrolling js-scrolling-box">
     <div
       class="gallery-scroll-wrapper js-scrolling-elements">
-            <img loading="lazy" decoding="async" width="2560" height="1761" src="/wp-content/uploads/2023/04/01_CuadernoRubio-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/01_CuadernoRubio-scaled.webp 2560w, /wp-content/uploads/2023/04/01_CuadernoRubio-300x206.webp 300w, /wp-content/uploads/2023/04/01_CuadernoRubio-1024x704.webp 1024w, /wp-content/uploads/2023/04/01_CuadernoRubio-768x528.webp 768w, /wp-content/uploads/2023/04/01_CuadernoRubio-1536x1056.webp 1536w, /wp-content/uploads/2023/04/01_CuadernoRubio-2048x1409.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />            <img loading="lazy" decoding="async" width="2560" height="1760" src="/wp-content/uploads/2023/04/02_CuadernoRubio-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/02_CuadernoRubio-scaled.webp 2560w, /wp-content/uploads/2023/04/02_CuadernoRubio-300x206.webp 300w, /wp-content/uploads/2023/04/02_CuadernoRubio-1024x704.webp 1024w, /wp-content/uploads/2023/04/02_CuadernoRubio-768x528.webp 768w, /wp-content/uploads/2023/04/02_CuadernoRubio-1536x1056.webp 1536w, /wp-content/uploads/2023/04/02_CuadernoRubio-2048x1408.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />            <img loading="lazy" decoding="async" width="2560" height="1758" src="/wp-content/uploads/2023/04/03_CuadernoRubio-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/03_CuadernoRubio-scaled.webp 2560w, /wp-content/uploads/2023/04/03_CuadernoRubio-300x206.webp 300w, /wp-content/uploads/2023/04/03_CuadernoRubio-1024x703.webp 1024w, /wp-content/uploads/2023/04/03_CuadernoRubio-768x528.webp 768w, /wp-content/uploads/2023/04/03_CuadernoRubio-1536x1055.webp 1536w, /wp-content/uploads/2023/04/03_CuadernoRubio-2048x1407.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />            <img loading="lazy" decoding="async" width="2560" height="1760" src="/wp-content/uploads/2023/04/04_CuadernoRubio-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/wp-content/uploads/2023/04/04_CuadernoRubio-scaled.webp 2560w, /wp-content/uploads/2023/04/04_CuadernoRubio-300x206.webp 300w, /wp-content/uploads/2023/04/04_CuadernoRubio-1024x704.webp 1024w, /wp-content/uploads/2023/04/04_CuadernoRubio-768x528.webp 768w, /wp-content/uploads/2023/04/04_CuadernoRubio-1536x1056.webp 1536w, /wp-content/uploads/2023/04/04_CuadernoRubio-2048x1408.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />          </div>
+            <img loading="lazy" decoding="async" width="2560" height="1761" src="/primarium//wp-content/uploads/2023/04/01_CuadernoRubio-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/01_CuadernoRubio-scaled.webp 2560w, /primarium//wp-content/uploads/2023/04/01_CuadernoRubio-300x206.webp 300w, /primarium//wp-content/uploads/2023/04/01_CuadernoRubio-1024x704.webp 1024w, /primarium//wp-content/uploads/2023/04/01_CuadernoRubio-768x528.webp 768w, /primarium//wp-content/uploads/2023/04/01_CuadernoRubio-1536x1056.webp 1536w, /primarium//wp-content/uploads/2023/04/01_CuadernoRubio-2048x1409.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />            <img loading="lazy" decoding="async" width="2560" height="1760" src="/primarium//wp-content/uploads/2023/04/02_CuadernoRubio-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/02_CuadernoRubio-scaled.webp 2560w, /primarium//wp-content/uploads/2023/04/02_CuadernoRubio-300x206.webp 300w, /primarium//wp-content/uploads/2023/04/02_CuadernoRubio-1024x704.webp 1024w, /primarium//wp-content/uploads/2023/04/02_CuadernoRubio-768x528.webp 768w, /primarium//wp-content/uploads/2023/04/02_CuadernoRubio-1536x1056.webp 1536w, /primarium//wp-content/uploads/2023/04/02_CuadernoRubio-2048x1408.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />            <img loading="lazy" decoding="async" width="2560" height="1758" src="/primarium//wp-content/uploads/2023/04/03_CuadernoRubio-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/03_CuadernoRubio-scaled.webp 2560w, /primarium//wp-content/uploads/2023/04/03_CuadernoRubio-300x206.webp 300w, /primarium//wp-content/uploads/2023/04/03_CuadernoRubio-1024x703.webp 1024w, /primarium//wp-content/uploads/2023/04/03_CuadernoRubio-768x528.webp 768w, /primarium//wp-content/uploads/2023/04/03_CuadernoRubio-1536x1055.webp 1536w, /primarium//wp-content/uploads/2023/04/03_CuadernoRubio-2048x1407.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />            <img loading="lazy" decoding="async" width="2560" height="1760" src="/primarium//wp-content/uploads/2023/04/04_CuadernoRubio-scaled.webp" class="wp-block-image scrolling__img" alt="" srcset="/primarium//wp-content/uploads/2023/04/04_CuadernoRubio-scaled.webp 2560w, /primarium//wp-content/uploads/2023/04/04_CuadernoRubio-300x206.webp 300w, /primarium//wp-content/uploads/2023/04/04_CuadernoRubio-1024x704.webp 1024w, /primarium//wp-content/uploads/2023/04/04_CuadernoRubio-768x528.webp 768w, /primarium//wp-content/uploads/2023/04/04_CuadernoRubio-1536x1056.webp 1536w, /primarium//wp-content/uploads/2023/04/04_CuadernoRubio-2048x1408.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />          </div>
 
 
     <span class="gallery__arrows stacked-box">
@@ -520,7 +520,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3810" src="/wp-content/uploads/2023/05/Spain_cuadernos-rubio.svg" alt="" class="wp-image-4925"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="3810" src="/primarium//wp-content/uploads/2023/05/Spain_cuadernos-rubio.svg" alt="" class="wp-image-4925"/></figure>
 ]]></content:encoded>
 					
 		
