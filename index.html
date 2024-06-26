@@ -30,8 +30,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <style id="safe-svg-svg-icon-style-inline-css">.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}</style>
 <style id="classic-theme-styles-inline-css">/*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}</style>
-<link rel="stylesheet" id="primarium-style-css" href="/primarium//wp-content/themes/primarium/style.css?ver=1.25" media="all">
-<link rel="stylesheet" id="primarium-defer-css" href="/primarium//wp-content/themes/primarium/style-defer.css?ver=1.23" media="all">
+<link rel="stylesheet" id="primarium-style-css" href="/primarium//wp-content/themes/primarium/style.css?ver=1.27" media="all">
+<link rel="stylesheet" id="primarium-defer-css" href="/primarium//wp-content/themes/primarium/style-defer.css?ver=1.25" media="all">
 <link rel="https://api.w.org/" href="/primarium//wp-json/">
 <link rel="alternate" type="application/json" href="/primarium//wp-json/wp/v2/pages/2">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/primarium//xmlrpc.php?rsd">
@@ -207,12 +207,16 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 
   <div class="grid cta-wrapper">
 
-    <p class="title--section cta__title">Would you like to
-      contribute to this project, or get in touch with us?
-    </p>
-    <p class="cta__txt">Please drop us a line by filling
-      this form. We’ll be happy to hear from&nbsp;you.</p>
-    <div class="frm_forms " id="frm_form_2_container" data-token="58d83feb0cfbe6e9fa0f56190dc749cf">
+
+    <div class="js-dynamicContact">
+      <p class="title--section cta__title">Would you like to
+        contribute to this project, or get in touch with us?
+      </p>
+      <p class="cta__txt ">Please drop us a
+        line by filling
+        this form. We’ll be happy to hear from&nbsp;you.</p>
+
+      <div class="frm_forms " id="frm_form_2_container" data-token="58d83feb0cfbe6e9fa0f56190dc749cf">
 <form enctype="multipart/form-data" method="post" class="frm-show-form cta__form frm_js_validate  frm_ajax_submit " id="form_contactform" data-token="58d83feb0cfbe6e9fa0f56190dc749cf">
 <div class="frm_form_fields ">
 <fieldset>
@@ -225,7 +229,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <input type="hidden" name="frm_hide_fields_2" id="frm_hide_fields_2" value="">
 <input type="hidden" name="form_key" value="contactform">
 <input type="hidden" name="item_meta[0]" value="">
-<input type="hidden" id="frm_submit_entry_2" name="frm_submit_entry_2" value="07bc8cb4c1"><input type="hidden" name="_wp_http_referer" value="/?simply_static_page=19341"><div id="frm_field_6_container" class="frm_form_field form-field  frm_required_field frm_top_container form__input form__name">
+<input type="hidden" id="frm_submit_entry_2" name="frm_submit_entry_2" value="fe8c905bca"><input type="hidden" name="_wp_http_referer" value="/?simply_static_page=19341"><div id="frm_field_6_container" class="frm_form_field form-field  frm_required_field frm_top_container form__input form__name">
     <label for="field_form--name" id="field_form--name_label" class="frm_primary_label">Name
         <span class="frm_required" aria-hidden="true"></span>
     </label>
@@ -269,7 +273,36 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 </div>
 </form>
 </div>
+    </div>
+    <div class="js-staticContact" style="display: none">
+      <style>.link__bg {
+        transform: translate(-50%, -45%) scale(1, .6);
+      }</style>
+      <p class="title--section cta__title">Would you like to
+        contribute to this project, or get in touch with us?
+      </p>
+      <p class="cta__txt">Please drop us a line by sending
+        us an email. We’ll be happy to hear from&nbsp;you.
+      </p>
+      <p style="margin-top: .5em"><a href="mailto:contact@primarium.info" class="frm_button_submit link--cta">contact@primarium.info
+          <svg id="cta__bg-bd1" viewbox="0 0 684 162" fill="none" class="link__bg cta__bg">
+            <path d="M579.378 18.8422C740.312 52.6839 683.855 141.357 494.212 152.351 304.596 163.074-63.0042 129.549 10.5036 51.2822c36.0353-52.151864 407.9134-66.01 568.8744-32.44Z" fill="#F06"></path>
+            <path d="M589.099 25.5395C750.032 59.3812 693.575 148.054 503.932 159.049 314.316 169.771-53.284 136.246 20.2238 57.9795 56.2591 5.8276 428.137-8.03049 589.099 25.5395Z" stroke="#B517A7" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 13"></path>
+          </svg></a></p>
+    </div>
   </div>
+  <script>const contactVisible = window.origin.includes(
+      'github') ?
+    document.querySelector('.js-staticContact') : document
+    .querySelector('.js-dynamicContact')
+
+  const contactHide = window.origin.includes('github') ?
+    document
+    .querySelector('.js-dynamicContact') :
+    document.querySelector('.js-staticContact')
+
+  contactVisible.style.display = 'block'
+  contactHide.style.display = 'none'</script>
     <svg class="svg-original cta--shapes js-doodleTrigger" viewbox="0 0 1537 779" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path d="M-42.02 12.1699c17.79 5.45 29.6 5.87 39.96998 4.12M7.06995 14.2001C27.1999 8.5401 47.11-2.4799 104.8 5.0301c84.83 11.05 114.01 44.92 171.97 80.38 61.36 37.5399 184.56 77.1499 320.02 13.56 144.8-67.97 176.49 105.8199 341.1 132.4399 77.1 12.47 169.26 24.23 173.24 261.39 0 0-25.57 190.51 425.71 144.96" stroke="#65D7E7" stroke-width="5" stroke-miterlimit="10" stroke-linecap="round" class="js-doodleParallax" data-dis="8" data-rot="0"></path>
     <path d="M-17.95 255.66c90.1501 41.58 42.4101 157.65 158.25 181.01 94.1 18.97 229.31-102.04 309.31-106.58 137.98-7.83 126.37 104.7 280.36 53.57 164.61-54.66 157.76 26.75 343.48 49.75 146.63 18.16 311.24-125.52 298.73 217.44 0 0-20.6 171.68 364.01 112.42" stroke="#B08FE3" stroke-width="5" stroke-miterlimit="10" stroke-linecap="round" class="js-doodleParallax" data-dis="-25" data-rot="0"></path>
@@ -557,14 +590,13 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 </svg>
 
 <footer id="colophon" class="site-footer page--offset js-footer">
-  <!-- <nav class="site-nav--footer">
-  </nav> -->
+
   <div class="site-info">
     <p class="copy">Primarium © 2024      was created by TypeTogether s. r. o. for Google, and
       licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/" class="sidebar__link" target="_blank" rel="noopener noreferrer" style="white-space: nowrap">CC
         BY-SA 4.0</a></p>
-    <p class="crafted">Crafted with 🤍 by <a href="https://www.type-together.com/" target="_blank" rel="noopener noreferrer" class="sidebar__link" style="--rotate: 0deg">TypeTogether</a>
-      & <a href="https://www.ashler.design/" target="_blank" rel="noopener noreferrer" class="sidebar__link" style="--rotate: 0deg">Ashler
+    <p class="crafted">Crafted with 🤍 by <a href="https://www.type-together.com/" target="_blank" rel="noopener noreferrer" class="sidebar__link" style="--rotate: -1deg">TypeTogether</a>
+      & <a href="https://www.ashler.design/" target="_blank" rel="noopener noreferrer" class="sidebar__link" style="--rotate: 1deg">Ashler
         Design</a> </p>
   </div>
 <!-- .site-info -->
@@ -588,34 +620,18 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
         <span class="ssp-id" style="display:none">2</span>
 		<script src="/primarium//wp-content/plugins/simply-static-pro/assets/ssp-form-webhook-public.js?ver=1.5.0" id="ssp-form-webhook-public-js"></script>
 <script src="/primarium//wp-content/themes/primarium/js/navigation.js?ver=1.0.0" id="primarium-navigation-js"></script>
-<script src="/primarium//wp-content/themes/primarium/js/gsap.min.js?ver=1694085873" id="gsap-js"></script>
-<script src="/primarium//wp-content/themes/primarium/js/ScrollTrigger.min.js?ver=1694085873" id="scrolltrigger-js"></script>
-<script src="/primarium//wp-content/themes/primarium/js/ScrollSmoother.min.js?ver=1683556859" id="scrollsmoother-js"></script>
-<script src="/primarium//wp-content/themes/primarium/js/InertiaPlugin.min.js?ver=1683556859" id="InertiaPlugin-js"></script>
-<script src="/primarium//wp-content/themes/primarium/js/Draggable.min.js?ver=1683556858" id="Draggable-js"></script>
-<script src="/primarium//wp-content/themes/primarium/js/SplitText.min.js?ver=1683556859" id="SplitText-js"></script>
-<script src="/primarium//wp-content/themes/primarium/js/main-min.js?ver=1715794332" id="main-js"></script>
+<script src="/primarium//wp-content/themes/primarium/js/gsap.min.js?ver=1719405679" id="gsap-js"></script>
+<script src="/primarium//wp-content/themes/primarium/js/ScrollTrigger.min.js?ver=1719405679" id="scrolltrigger-js"></script>
+<script src="/primarium//wp-content/themes/primarium/js/ScrollSmoother.min.js?ver=1719405679" id="scrollsmoother-js"></script>
+<script src="/primarium//wp-content/themes/primarium/js/InertiaPlugin.min.js?ver=1719405679" id="InertiaPlugin-js"></script>
+<script src="/primarium//wp-content/themes/primarium/js/Draggable.min.js?ver=1719405678" id="Draggable-js"></script>
+<script src="/primarium//wp-content/themes/primarium/js/SplitText.min.js?ver=1719405679" id="SplitText-js"></script>
+<script src="/primarium//wp-content/themes/primarium/js/main-min.js?ver=1719405679" id="main-js"></script>
 <script src="/primarium//wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script src="/primarium//wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script id="formidable-js-extra">var frm_js = {"ajax_url":"\/primarium\/\/wp-admin\/admin-ajax.php","images_url":"\/primarium\/\/wp-content\/plugins\/formidable\/images","loading":"Loading…","remove":"Remove","offset":"4","nonce":"b84a5bef9e","id":"ID","no_results":"No results match","file_spam":"That file looks like Spam.","calc_error":"There is an error in the calculation in the field with key","empty_fields":"Please complete the preceding required fields before uploading a file.","focus_first_error":"1","include_alert_role":"1","include_update_field":"","include_resend_email":""};</script>
+<script id="formidable-js-extra">var frm_js = {"ajax_url":"\/primarium\/\/wp-admin\/admin-ajax.php","images_url":"\/primarium\/\/wp-content\/plugins\/formidable\/images","loading":"Loading…","remove":"Remove","offset":"4","nonce":"f1bf663fb0","id":"ID","no_results":"No results match","file_spam":"That file looks like Spam.","calc_error":"There is an error in the calculation in the field with key","empty_fields":"Please complete the preceding required fields before uploading a file.","focus_first_error":"1","include_alert_role":"1","include_update_field":"","include_resend_email":""};</script>
 <script src="/primarium//wp-content/plugins/formidable/js/frm.min.js?ver=6.10" id="formidable-js"></script>
 
-<!-- <script>
-javascript: (function() {
-  var script = document.createElement('script');
-  script.onload = function() {
-    var stats = new Stats();
-    document.body.appendChild(stats.dom);
-    requestAnimationFrame(function loop() {
-      stats.update();
-      requestAnimationFrame(loop)
-    });
-  };
-  script.src =
-    '//mrdoob.github.io/stats.js/build/stats.min.js';
-  document.head.appendChild(script);
-})()
-</script> -->
 <script src="/primarium//wp-content/themes/primarium/js/scripts-defer-min.js" defer></script>
 </body>
 
