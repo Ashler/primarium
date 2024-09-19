@@ -10,13 +10,13 @@
 	<title>Primarium</title>
 	<link>/primarium//</link>
 	<description>Handwriting education in primary schools</description>
-	<dc:date>2024-09-05T08:51:23Z	</dc:date>
+	<dc:date>2024-09-19T14:26:43Z	</dc:date>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.1" />
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.2" />
 	<items>
 		<rdf:Seq>
 				</rdf:Seq>

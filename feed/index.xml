@@ -12,12 +12,12 @@
 	<atom:link href="/primarium//feed/" rel="self" type="application/rss+xml" />
 	<link>/primarium//</link>
 	<description>Handwriting education in primary schools</description>
-	<lastBuildDate>Thu, 05 Sep 2024 08:51:23 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Sep 2024 14:26:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 </channel>
 </rss>
